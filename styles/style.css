@@ -228,6 +228,7 @@ main > section{
 .section-title-main , .fact-description-main{
     display: flex;
     justify-content: center;
+    text-align: center;
 }
 #experience-badge{
     margin-top:20px;
